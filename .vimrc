@@ -10,6 +10,7 @@ set wrap
 set cc=80
 
 set noshiftround
+syntax on
 
 " Cursor motion
 set scrolloff=3
